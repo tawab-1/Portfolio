@@ -79,7 +79,7 @@ section{
     height: 100vh;
     width: 100%;
     position: relative;
-    background: url(images/main1.jpg);
+    background: url(../images/main1.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
